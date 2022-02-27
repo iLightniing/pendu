@@ -1,0 +1,23 @@
+{
+  "name": "pendu",
+  "version": "1.0.0",
+  "description": "**Jeu du Pendu**",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i src/styles.css -o public/styles.css --watch",
+    "build": "npx tailwindcss -i src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLightniing/pendu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLightniing/pendu/issues"
+  },
+  "homepage": "https://github.com/iLightniing/pendu#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
