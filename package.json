@@ -19,5 +19,8 @@
   "homepage": "https://github.com/iLightniing/pendu#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.23"
+  },
+  "dependencies": {
+    "daisyui": "^2.2.2"
   }
 }
